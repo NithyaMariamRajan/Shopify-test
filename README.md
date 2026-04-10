@@ -54,7 +54,7 @@ This project is a custom Shopify theme implementation based on the provided Figm
 
 ## Live Preview
 
-<https://nithya-mariam-rajan-48-teststore.myshopify.com/pages/custom-page>
+<https://nithya-mariam-rajan-48-teststore.myshopify.com/>
 
 ---
 
